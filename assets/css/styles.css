@@ -2689,3 +2689,9 @@ BLOG Pagination
   font-size: 20px;
   font-weight: 700;
 }
+
+.mh-about-img lottie-player {
+  margin: auto;
+  width: 400px;
+  height: 400px;
+}
